@@ -1,11 +1,7 @@
 import CSSReset from './CSSReset'
 
 export const GlobalStyles = () => {
-  return (
-    <>
-      <CSSReset />
-    </>
-  )
+  return <CSSReset />
 }
 
 export default GlobalStyles
