@@ -1,5 +1,5 @@
 const About = () => (
-  <div className='about'>
+  <div className="about">
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati nam
       dicta quia ipsam quae reiciendis quaerat illo consequatur repellendus
