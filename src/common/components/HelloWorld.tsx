@@ -53,7 +53,7 @@ const HelloWorld = () => {
 
   return (
     <HelloWorldWrapper>
-      <WaveSpan role='img' aria-label='wave'>
+      <WaveSpan role="img" aria-label="wave">
         {`\u{1f44b}`}
       </WaveSpan>{' '}
       {greetings[hello]}
